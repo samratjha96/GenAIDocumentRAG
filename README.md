@@ -1,0 +1,2 @@
+# GenAIDocumentRAG
+RAG playground
